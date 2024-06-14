@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Vibrant",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://i.postimg.cc/CLV0ksgj/V-5.png",
+    "light": "https://i.postimg.cc/CLV0ksgj/V-5.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://i.postimg.cc/CLV0ksgj/V-5.png",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#0047AB",
+    "light": "#0047AB",
+    "dark": "#0047AB",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#4fffaa",
+      "to": "#60a2ff"
     }
   },
   "topbarLinks": [
