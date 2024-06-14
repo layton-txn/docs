@@ -52,29 +52,19 @@
         "bulletin/config"
       ]
     },
-    {
-      "group": "Essentials",
+     {
+      "group": "Bulletin",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "bulletin/whats-new",
+        "bulletin/features",
+        "bulletin/config"
       ]
     },
-    {
-      "group": "API Documentation",
+     {
+      "group": "Legal",
       "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "legal/terms",
+        "legal/privacy"
       ]
     }
   ],
