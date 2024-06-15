@@ -38,9 +38,9 @@
       "url": "https://discord.gg/z9gNz3TFDe"
     },
     {
-      "name": "Website",
-      "icon": "globe",
-      "url": "Coming Soon"
+      "name": "Status Page",
+      "icon": "status",
+      "url": "https://status.vibrantbot.xyz/"
     }
   ],
   "navigation": [
