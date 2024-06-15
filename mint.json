@@ -25,16 +25,6 @@
     "name": "Community Support",
     "url": "https://discord.gg/z9gNz3TFDe"
   },
-  "tabs": [
-    {
-      "name": "Terms Of Service",
-      "url": "legal/terms"
-    },
-       {
-      "name": "Privacy Policy",
-      "url": "legal/privacy"
-    }
-  ],
   "anchors": [
     {
       "name": "Community Support",
@@ -43,8 +33,13 @@
     },
     {
       "name": "Status Page",
-      "icon": "status",
+      "icon": "signal-bars",
       "url": "https://status.vibrantbot.xyz/"
+    },
+    {
+      "name": "Website",
+      "icon": "browser",
+      "url": "https://vibrantbot.xyz/"
     }
   ],
   "navigation": [
@@ -57,11 +52,9 @@
       ]
     },
      {
-      "group": "Bulletin",
+      "group": "Modules",
       "pages": [
-        "bulletin/whats-new",
-        "bulletin/features",
-        "bulletin/config"
+        "modules/"
       ]
     },
      {
@@ -73,8 +66,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/vibrant_bot",
+    "discord": "https://discord.gg/z9gNz3TFDe",
+    "signal-bars": "https://status.vibrantbot.xyz/"
   }
 }
