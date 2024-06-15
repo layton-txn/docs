@@ -46,7 +46,7 @@
     {
       "group": "Bulletin",
       "pages": [
-        "bulletin/whats-new",
+        "bulletin/changelog",
         "bulletin/features",
         "bulletin/config"
       ]
@@ -67,7 +67,6 @@
   ],
   "footerSocials": {
     "x": "https://x.com/vibrant_bot",
-    "discord": "https://discord.gg/z9gNz3TFDe",
-    "signal-bars": "https://status.vibrantbot.xyz/"
+    "discord": "https://discord.gg/z9gNz3TFDe"
   }
 }
