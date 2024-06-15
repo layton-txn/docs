@@ -27,8 +27,12 @@
   },
   "tabs": [
     {
-      "name": "Legal Documentation",
-      "url": "legal-docs"
+      "name": "Terms Of Service",
+      "url": "legal/terms"
+    },
+       {
+      "name": "Privacy Policy",
+      "url": "legal/privacy"
     }
   ],
   "anchors": [
